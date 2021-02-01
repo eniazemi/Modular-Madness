@@ -2,9 +2,9 @@
 #include <string>
 #include <iomanip>
 #include <vector>
-#include "instructions.h"
+#include "Instructions.h"
 #include "Operations.h"
-#include "process.h"
+#include "Process.h"
 using namespace std;
 
 
