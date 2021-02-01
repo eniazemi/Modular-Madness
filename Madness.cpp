@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include <iostream>
 #include <string>
 #include <iomanip>
@@ -38,7 +37,7 @@ while (komanda.compare("quit") != 0) {									//to make the program continue un
 
 	}
 
-	else if (lloji_komandes.compare("connect") == 0) {					//when the first word is 'connect', a connection between two previously declared modules is being made. The two following words are both module names
+	else if (lloji_komandes.compare("connect") == 0) {				//when the first word is 'connect', a connection between two previously declared modules is being made. The two following words are both module names
 		string emrat = komanda.erase(0, nr_simobleve_te_komandes + 1);
 
 		int nr_simboleve_te_modulit1 = numri_simboleve(emrat);
