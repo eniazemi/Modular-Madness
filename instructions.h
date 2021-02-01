@@ -3,7 +3,7 @@
 #include <iomanip>
 using namespace std;
 
-void instruksionet() {														//the necessary instructions for running the program
+void instruksionet() {												//the necessary instructions for running the program
 	cout << setw(120) << setfill('-') << "-" << endl;
 	cout << "INSTRUCTIONS FOR RUNNING THE PROGRAM:" << endl;
 	cout << endl;
