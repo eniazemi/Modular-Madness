@@ -2,7 +2,7 @@
 #include <string>
 #include <iomanip>
 #include <vector>
-#include "Instructions.h"
+#include "instructions.h"
 #include "Operations.h"
 #include "Process.h"
 using namespace std;
