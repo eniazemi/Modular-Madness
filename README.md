@@ -37,11 +37,14 @@ For **quitting**, type:
 
 Type ```clear``` to **clear all the modules and start over!**
 
+The number of output strings is limited to **sixteen times** the number of input strings in the corresponding process line.
+
 P.S. The connect can only be made for **2 modules** at the same time.
 
 Please write in **all lowercase!**
 
 ## Usage
+
 Here is an example run test and its output:
 
 ```cpp
