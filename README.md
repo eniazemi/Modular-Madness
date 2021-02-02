@@ -54,9 +54,9 @@ connect alpha beta
 process hello
 
 olleholleh
-
-A short video that shows the execution of the program can be found [on this link!](https://drive.google.com/file/d/10cmee67A5GpjVeTBfoxgtkkmenWXqBPk/view?usp=sharing)
 ```
+A short video that shows the execution of the program can be found [on this link!](https://drive.google.com/file/d/10cmee67A5GpjVeTBfoxgtkkmenWXqBPk/view?usp=sharing)
+
 ## To Do
 The program currently works under the assumption that it will only be run with valid inputs. Handling errors which might arise from malformed input is still to be added.
 
